@@ -1,6 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: derylong.github.io
+favicon: images/saturn_104926_Nk7_icon.ico
 
 # Content configuration version
 version: 2
@@ -109,7 +109,7 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
