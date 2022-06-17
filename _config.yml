@@ -33,9 +33,6 @@ about_content: | # this will include new lines to allow paragraphs
   I use ALMA observations and 2D chemical models to constrain properties of protoplanetary disks such as ionization, which governs chemical
   and dynamical processes related to planet formation.
 
-  ![protoplanetary disk cartoon](/modern-resume-theme/images/disk_cartoon.jpg "disk cartoon")
-
-
 content:
   - title: Research # Title for the section
     layout: list
