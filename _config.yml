@@ -27,11 +27,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Deryl (she/they) and I'm a 3rd year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
   I work with the [Cleeves Group](https://www.astrocleeves.group/home) to study the physical and
-  chemical conditions under which planet formation occurs. Through my research I seek to provide critical linkages between protoplanetary disks and
+  chemical conditions related to planet formation. Through my research I seek to provide critical linkages between protoplanetary disks and
   the exoplanetary systems that are ultimately formed in these environments.
 
-  I use ALMA observations and 2D chemical models to constrain properties of protoplanetary disks such as ionization, which governs chemical
-  and dynamical processes related to planet formation.
+  I use ALMA observations and 2D chemical models to constrain properties of protoplanetary disks such as ionization, which drives important
+  chemistry and dynamics in planet-forming regions of disks.
 
 content:
   - title: Research # Title for the section
