@@ -39,7 +39,6 @@ content:
         border: weak
         title: Protoplanetary Disk Ionization
         description: |
-
           Ionization drives critical chemical and dynamical processes within protoplanetary disks. Ions are responsible for important chemical processes,
           including the formation of organics and water in the cold midplane of the disk. Therefore ionization-driven chemistry is central to the chemical
           evolution of any planets that may be forming within it.  Ionization also has a significant impact on the transport of material throughout the disk
