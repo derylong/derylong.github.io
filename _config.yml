@@ -51,8 +51,8 @@ content:
       - layout: top-middle
         title: Planet Formation on Solar System Scales
         description: |
-          Surveys of protoplanetary disks, such as [DSHARP](https://almascience.eso.org/almadata/lp/DSHARP/), reveal a diversity of substructures across a range of disks. The DHSARP disks
-          sample consists of large, massive disks, but the majority of protoplanetary disks are much smaller and it is important to determine whether similar substructures, possibly
+          Surveys of protoplanetary disks, such as [DSHARP](https://almascience.eso.org/almadata/lp/DSHARP/), reveal a diversity of substructures across a range of disks. The DHSARP
+          sample consists of large, massive disks, but the majority of protoplanetary disks are much smaller. It is important to determine whether similar substructures, possibly
           related to planet formation, are present in these compact disks. To investigate the presence of substructure on Solar System scales
           I looked at high resolution ALMA 1.3mm observations and detected substructures in the GQ Lup disk. My results hint at a [rich world of
           substructures in small disks](https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..46L/abstract), which may be related to young forming planets.
