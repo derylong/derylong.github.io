@@ -40,25 +40,25 @@ content:
         title: Protoplanetary Disk Ionization
         description: |
 
-Ionization drives critical chemical and dynamical processes within protoplanetary disks. Ions are responsible for important chemical processes,
-including the formation of organics and water in the cold midplane of the disk. Therefore ionization-driven chemistry is central to the chemical
-evolution of any planets that may be forming within it.  Ionization also has a significant impact on the transport of material throughout the disk
-via accretion and magneto-hydrodynamics (MHD). Sufficient ionization allows the gas to couple to magnetic field lines and in turn drives magneto-rotational
-instability (MRI). Regions in the midplane in which the disk is not MRI active (“dead zones”) are thought to be safe havens for planet formation.
-Therefore, constraining the ionization fraction throughout a disk is crucial for understanding both possible planet compositions and planet-forming capabilities.
+          Ionization drives critical chemical and dynamical processes within protoplanetary disks. Ions are responsible for important chemical processes,
+          including the formation of organics and water in the cold midplane of the disk. Therefore ionization-driven chemistry is central to the chemical
+          evolution of any planets that may be forming within it.  Ionization also has a significant impact on the transport of material throughout the disk
+          via accretion and magneto-hydrodynamics (MHD). Sufficient ionization allows the gas to couple to magnetic field lines and in turn drives magneto-rotational
+          instability (MRI). Regions in the midplane in which the disk is not MRI active (“dead zones”) are thought to be safe havens for planet formation.
+          Therefore, constraining the ionization fraction throughout a disk is crucial for understanding both possible planet compositions and planet-forming capabilities.
 
-Despite its importance, the amount of ionization and its distribution is still a key piece of the planet formation puzzle that has yet to be solved.
-My current research aims to bridge this gap by providing the most sensitive constraints on ionization in protoplanetary disks to date
-using ALMA observations and 2D chemical models. Stay tuned for forthcoming results!
+          Despite its importance, the amount of ionization and its distribution is still a key piece of the planet formation puzzle that has yet to be solved.
+          My current research aims to bridge this gap by providing the most sensitive constraints on ionization in protoplanetary disks to date
+          using ALMA observations and 2D chemical models. Stay tuned for forthcoming results!
 
       - layout: top-middle
         title: Planet Formation on Solar System Scales
         description: |
-Surveys of protoplanetary disks, such as [DSHARP](https://almascience.eso.org/almadata/lp/DSHARP/), reveal a diversity of substructures across a range of disks. The DHSARP disks
-sample consists of large, massive disks, but the majority of protoplanetary disks are much smaller and it is important to determine whether similar substructures, possibly
-related to planet formation, are present in these compact disks. To investigate the presence of substructure on Solar System scales
-I looked at high resolution ALMA 1.3mm observations and detected substructures in the GQ Lup disk. My results hint at a [rich world of
-substructures in small disks](https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..46L/abstract), which may be related to young forming planets.
+          Surveys of protoplanetary disks, such as [DSHARP](https://almascience.eso.org/almadata/lp/DSHARP/), reveal a diversity of substructures across a range of disks. The DHSARP disks
+          sample consists of large, massive disks, but the majority of protoplanetary disks are much smaller and it is important to determine whether similar substructures, possibly
+          related to planet formation, are present in these compact disks. To investigate the presence of substructure on Solar System scales
+          I looked at high resolution ALMA 1.3mm observations and detected substructures in the GQ Lup disk. My results hint at a [rich world of
+          substructures in small disks](https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..46L/abstract), which may be related to young forming planets.
 
 
 # Footer
