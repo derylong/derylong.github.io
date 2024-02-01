@@ -25,7 +25,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Deryl (she/they) and I'm a 3rd year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
+  Hi, my name is Deryl (she/they) and I'm a 4th year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
   I work with the [Cleeves Group](https://www.astrocleeves.group/home) to study the physical and
   chemical conditions related to planet formation. Through my research I seek to provide critical linkages between protoplanetary disks and
   the exoplanetary systems that are formed in these environments. You can view my full CV [here](https://nbviewer.org/github/derylong/derylong.github.io/blob/main/images/deryl_cv_22.pdf).
@@ -51,7 +51,7 @@ content:
           targeted massive disks, while the majority of protoplanetary disks are much smaller. To investigate the presence of substructure on Solar System scales
           I looked at high resolution ALMA observations of the compact GQ Lup dust disk. My results hint at a [rich world of
           substructures in small disks](https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..46L/abstract), which may be related to young forming planets. A [subsequent analysis of compact sources in Taurus](https://arxiv.org/abs/2305.03862)
-          reveals substructure in half of the disks and finds that occurence rates for inferred planets are consistent with microlensing and direct-imaging surveys (Zhang et al. 2023).  
+          reveals substructure in half of the disks and finds that occurence rates for inferred planets are consistent with microlensing and direct-imaging surveys (Zhang et al. 2023).
 
 
 # Footer
