@@ -25,10 +25,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Deryl (she/they) and I'm a 4th year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
+  Hi, my name is Deryl (she/they) and I'm a rising 5th year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
   I work with the [Cleeves Group](https://www.astrocleeves.group/home) to study the physical and
-  chemical conditions related to planet formation. Through my research I seek to provide critical linkages between protoplanetary disks and
-  the exoplanetary systems that are formed in these environments. You can view my full CV [here](https://nbviewer.org/github/derylong/derylong.github.io/blob/main/images/deryl_cv_22.pdf).
+  chemical conditions related to planet formation. Through my research I seek to understand the links between the physical and chemical conditions in protoplanetary disks and
+  the planetary systems that are formed in these environments. You can view my full CV [here](https://nbviewer.org/github/derylong/derylong.github.io/blob/main/images/deryl_cv_22.pdf).
 
 
 content:
@@ -40,9 +40,8 @@ content:
         title: Protoplanetary Disk Ionization
         description: |
           Ionization drives important chemical and dynamical processes within protoplanetary disks, including the formation of organics and water and the transport of material throughout the disk
-          via accretion and magneto-hydrodynamics (MHD). Despite its importance, the amount of ionization and its distribution is still a key piece of the planet formation puzzle that has yet to be solved.
-          My current research aims to bridge this gap by providing the most sensitive constraints on ionization in protoplanetary disks to date
-          using ALMA observations and 2D chemical models. Stay tuned for forthcoming results!
+          via accretion and magneto-hydrodynamics (MHD). Despite its importance, the amount of ionization and its distribution in protoplanetary disks is still a key piece of the planet formation puzzle that has yet to be solved.
+          [In my recent paper](https://arxiv.org/abs/2406.18657) I explore the complex 2D ionization environment of the turbulent DM Tau disk using high resolution ALMA observations and astrochemical models. Check it out!!
 
       - layout: top-middle
         title: Planet Formation on Solar System Scales
