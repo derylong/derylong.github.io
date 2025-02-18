@@ -23,7 +23,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/headshot1.JPG
+about_profile_image: images/headshot2.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Deryl and I'm a 5th year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
   I work with the [Cleeves Group](https://www.astrocleeves.group/home) to study the physical and
