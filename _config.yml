@@ -25,10 +25,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/headshot2.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Deryl and I'm a 5th year PhD student in the Department of Astronomy at [UVA](https://astronomy.as.virginia.edu/).
-  I work with the [Cleeves Group](https://www.astrocleeves.group/home) to study the physical and
-  chemical conditions related to planet formation. Through my research I seek to understand the links between the physical and chemical conditions in protoplanetary disks and
-  the planetary systems that are formed in these environments. You can view my full CV [here](https://nbviewer.org/github/derylong/derylong.github.io/blob/main/images/deryl_cv_24.pdf).
+  Hi, my name is Deryl and I'm an Astronomy PhD candidate and incoming Engagements Postdoctoral Fellow at the University of Virginia. Through my research I seek to understand the links between the physical and chemical conditions in protoplanetary disks and
+  the planetary systems that are formed in these environments. You can view my CV [here](https://nbviewer.org/github/derylong/derylong.github.io/blob/main/images/DL_CV_26.pdf).
 
 
 content:
